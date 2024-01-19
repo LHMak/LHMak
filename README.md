@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Liam 👋
 
-<!--
-**LHMak/LHMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer, currently working in Health Research 👨‍🔬
 
-Here are some ideas to get you started:
+### Skills:
+- **Languages:** Python, SQL, C# (in progress)
+- **Cloud:** Azure, AWS
+- **Databases:** PostgreSQL, Azure SQL Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### See my projects!
+- **Azure SQL Database migration:** [View repo](https://github.com/LHMak/azure-database-migration873)
+- **Retail Data Centralisation:** [View repo](https://github.com/LHMak/multinational-retail-data-centralisation75)
+
+### Education
+- Graduate of the AiCore Cloud Engineering program
+- Biology graduate from SHU
+
+### Hobbies
+- Learning Blender 
+- Learning C#
+- Playing drums
