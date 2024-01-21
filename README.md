@@ -1,6 +1,6 @@
 # Hello, I'm Liam 👋
 
-Aspiring Cloud Engineer, currently working in Health Research 👨‍🔬
+Aspiring Cloud Engineer based in Manchester, UK. Currently working in Health Research 👨‍🔬
 
 ### Skills:
 - **Languages:** Python, SQL, C# (in progress)
