@@ -19,6 +19,7 @@ Originally working in the Science industry, I recently decided to branch out int
 - Biology graduate from SHU
 
 ## Hobbies:
+- Going to the gym
 - Learning Blender 
 - Learning C#
 - Playing drums
